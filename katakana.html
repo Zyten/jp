@@ -30,7 +30,39 @@
 	<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
     <script src="js/index-table.js"></script>
 	<!-- End Responsive table -->
-	
+	<style>
+		td.seion {
+			border: solid 2px rgb(195,195,195);
+			width: 70px;
+			height: 36px;
+			vertical-align: middle;
+			padding: 0px;
+			font-size: 26px;
+			line-height: 30px;
+			font-weight: normal;
+			color: rgb(46,46,152);
+			text-align: center;
+			font-family: 'Hiragino Kaku Gothic ProN', 'Hiragino Kaku Gothic Pro', 'MS Gothic', sans-serif;
+		}
+
+		td.romaji {
+			border: solid 2px rgb(195,195,195);
+			height: 22px;
+			vertical-align: middle;
+			padding: 0px;
+			font-size: 14px;
+			line-height: 18px;
+			font-weight: normal;
+			color: rgb(46,46,152);
+			text-align: center;
+			font-family: Arial, Helvetica;
+		}
+
+		th {
+			display: table-cell;
+			vertical-align: inherit;
+		}
+	</style>
 </head>
 <body>
     <nav class="navbar navbar-default sidebar" role="navigation">
@@ -45,11 +77,11 @@
 		</div>
 		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
 		  <ul class="nav navbar-nav">
-			<li class="active"><a href="#">Home<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+			<li><a href="index.html">Home<span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
 			<li class="dropdown">
 			  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Charts<span class="caret"></span><span style="font-size:16px;" class="pull-right hidden-xs showopacity glyphicon glyphicon-th"></span></a>
-			  <ul class="dropdown-menu forAnimate" role="menu">
-				<li><a href="hiragana.html">Hiragana</a></li>
+			  <ul class="dropdown-menu forAnimate active" role="menu">
+				<li class="active"><a href="hiragana.html">Hiragana</a></li>
 				<li class="divider"></li>
 				<li><a href="404.html">Katakana</a></li>
 			  </ul>
@@ -64,178 +96,10 @@
 		<div class="row">
 			<div class="col-md-9">
 				<h1>zyten-learns-japanese</h1>
-				<!-- Nav tabs -->
-				<div class="card">
-						<ul class="nav nav-tabs responsive" role="tablist">
-							<li role="presentation" class="active"><a href="#greetings" aria-controls="greetings" role="tab" data-toggle="tab">Greetings</a></li>
-							<li role="presentation"><a href="#numbers" aria-controls="numbers" role="tab" data-toggle="tab">Numbers</a></li>
-							<li role="presentation"><a href="#misc" aria-controls="misc" role="tab" data-toggle="tab">Misc</a></li>
-						</ul>
-
-						<!-- Tab panes -->
-						<div class="tab-content responsive">
-							<!-- Tab Greetings -->
-							<div role="tabpanel" class="tab-pane active" id="greetings">
-								  <div id="table" class="table-responsive">
-								  <table class="rwd-table table" style="border-collapse:collapse;">
-										<thead>
-										  <tr>
-											<th style="width:20%">Word</th>
-											<th style="width:20%">Meaning</th>
-											<th style="width:20%">Hiragana</th>
-										  </tr>
-										</thead>
-										<tbody>
-											<tr class="accordion-toggle" data-toggle="collapse" data-target="#greet1">
-												<td data-th="Word">ohayo gozaimasu</td>
-												<td data-th="Meaning">Good Morning</td>
-												<td data-th="Hiragana">おはよございます</td>
-											</tr> 
-											<!-- Sentence toggle-->
-											<tr><!--For some reason, chg in padding works only inline with !important-->
-												<td style="padding-top: 0 !important;
-												padding-bottom: 0 !important;" colspan="3" class="hiddenRow">
-													<div id="greet1" class="collapse"><em>&nbsp;&nbsp;Sample sentence</em></div>
-												</td>
-											</tr>
-											<!-- End sentence toggle-->
-											
-											<tr class="accordion-toggle" data-toggle="collapse" data-target="#greet2">
-												<td data-th="Word">konnichiwa</td>
-												<td data-th="Meaning">Good Afternoon</td>
-												<td data-th="Hiragana">おはよございます</td>
-											</tr>
-											<!-- Sentence toggle-->
-											<tr>
-												<td style="padding-top: 0 !important;
-												padding-bottom: 0 !important;" colspan="3" class="hiddenRow">
-													<div id="greet2" class="collapse"><em>&nbsp;&nbsp;Sample sentence</em></div>
-												</td>
-											</tr>
-											<!-- End sentence toggle-->
-										</tbody>
-									</table>
-								  </div>
-							</div>
-							
-							<!-- Tab Numbers -->
-							<div role="tabpanel" class="tab-pane" id="numbers">
-								  <div id="table" class="table-responsive" >
-									<table class="rwd-table table" style="border-collapse:collapse;">
-									<thead>
-									  <tr>
-										<th style="width:10%">Word</th>
-										<th style="width:10%">Hiragana</th>
-									  </tr>
-									</thead>
-									<tbody>
-									  <tr>
-										<td data-th="Word">zero</td>
-										<td data-th="Hiragana">ゼロ</td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">one</td>
-										<td data-th="Hiragana">壱</td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">two</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">three</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">four</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">five</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">six</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">seven</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">eight</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">nine</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">ten</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">one hundred</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									  <tr>
-										<td data-th="Word">one thousand</td>
-										<td data-th="Hiragana"></td>
-									  </tr>
-									 </tbody>
-									</table>
-								  </div>
-							</div>
-							
-							<!-- Tab Misc -->
-							<div role="tabpanel" class="tab-pane" id="misc">
-								  <div id="table" class="table-responsive">
-									<table class="rwd-table table" style="border-collapse:collapse;">
-										<thead>
-										  <tr>
-											<th style="width:20%">Word</th>
-											<th style="width:20%">Meaning</th>
-											<th style="width:20%">Hiragana</th>
-										  </tr>
-										</thead>
-										<tbody>
-											<tr class="accordion-toggle" data-toggle="collapse" data-target="#demon2">
-												<td data-th="Word">mou ichido</td>
-												<td data-th="Meaning">once more</td>
-												<td data-th="Hiragana"></td>
-											</tr>
-											<!-- Sentence toggle-->
-											<tr><!--For some reason, chg in padding works only inline with !important-->
-												<td style="padding-top: 0 !important;
-												padding-bottom: 0 !important;" colspan="3" class="hiddenRow">
-													<div id="demon2" class="collapse"><em>&nbsp;&nbsp;Sample sentence</em></div>
-												</td>
-											</tr>
-											<!-- End sentence toggle-->
-											
-											<tr class="accordion-toggle" data-toggle="collapse" data-target="#demon3">
-												<td data-th="Word">mou ichido2</td>
-												<td data-th="Meaning">once more2</td>
-												<td data-th="Hiragana"></td>
-											</tr>
-											<!-- Sentence toggle-->
-											<tr>
-												<td style="padding-top: 0 !important;
-												padding-bottom: 0 !important;" colspan="3" class="hiddenRow">
-													<div id="demon3" class="collapse"><em>&nbsp;&nbsp;Sample sentence</em></div>
-												</td>
-											</tr>
-											<!-- End sentence toggle-->
-										</tbody>
-									</table>
-								  </div>
-							</div>
-						</div>
-					</div>
 			</div>
 		</div>
 	</div>
-	
-	
+	</script>
 	
 	<script type="text/javascript">
 	$('.collapse').on('show.bs.collapse', function () {
