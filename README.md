@@ -1,5 +1,5 @@
 # MyJapaneseVocab
-######Project Page: [zyten.github.io/zyten-learns-japanese](zyten.github.io/zyten-learns-japanese)
+######Project Page: [zyten.github.io/zyten-learns-japanese](http://zyten.github.io/zyten-learns-japanese)
 
 ## Intro
 
