@@ -6,6 +6,8 @@ I am taking a Japanese class weekly and intend to document my progress through t
 This will be a long-term project.
 Note: Mobile view is not pleasant to the eyes for now. Please view using a PC with Google Chrome or Mozilla Firefox for best experience.
 
+#Project Page: zyten.github.io/zyten-learns-japanese
+
 ## Immediate Goals
 
 * Track vocabs. I hope to record all the vocabs I learn in class as I learn them.
