@@ -20,6 +20,12 @@ Note: Mobile view is not pleasant to the eyes for now. Please view using a PC wi
 
 *COMING SOON*
 
+TODO:
+
+* Improve mobile view.
+* Improve navbar, anything less than 15.6 inch screen makes it glitchy.
+* Improve UI for sample sentence, not obvious.
+
 ## License
 
 The content of this project is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
