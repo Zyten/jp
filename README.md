@@ -17,7 +17,7 @@ This will be a long-term project.
 
 ## How to contribute
 
-*coming soon*
+**coming soon**
 
 ## License
 
