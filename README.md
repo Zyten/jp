@@ -16,8 +16,7 @@ This will be a long-term project.
 * Add hiragana alongside the words in roman
 
 ## How to contribute
-
-**coming soon**
+*coming soon*
 
 ## License
 
