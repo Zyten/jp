@@ -1,9 +1,11 @@
 # MyJapaneseVocab
+######Project Page: [zyten.github.io/zyten-learns-japanese](http://zyten.github.io/zyten-learns-japanese)
 
 ## Intro
 
 I am taking a Japanese class weekly and intend to document my progress through this repository to serve as a source of reference as well as motivation.
-This will be a long-term project.
+This will be a long-term project.<br />
+Note: Mobile view is not pleasant to the eyes for now. Please view using a PC with Google Chrome or Mozilla Firefox for best experience.
 
 ## Immediate Goals
 
@@ -18,6 +20,12 @@ This will be a long-term project.
 ## How to contribute
 
 *COMING SOON*
+
+TODO:
+
+* Improve mobile view.
+* Improve navbar, anything less than 15.6 inch screen makes it glitchy.
+* Improve UI for sample sentence, not obvious.
 
 ## License
 
