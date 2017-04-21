@@ -12,7 +12,7 @@ I know a few Chinese words, enough to make people think that I can understand Ch
 sentences to start a proper conversation. I took a basic Mandarin class when I began my undergrad in 2013 but I was not discplined
 enough to give my 100 percent and thus I ended up with an A+ by memorising some characters off the book before the finals but totally
 forgot everything by the next semester. I suppose the biggest obstacle I has was a lack of motivation. I found Chinese pronounciation
-very hard and I didn't find any like-minded friend who wants to learn Chinese just as I did (not that I tried very hard TBH ><).
+very hard and I kept using that as an excuse, thinking I'd never be able to speak properly anyways..
 
 And lo 2 years passed by and I was in my final semester already. By this time, I was already deeply immersed in Anime and Manga. 
 I've always strictly watched subbed Anime and thus I felt like I can understand a decent amount of words and the basic gist 
@@ -40,19 +40,19 @@ lengthy the season will be (based on the time I spend daily of course) but I'm e
 on it daily for at least around 3 hours). I checked out the syllabus and I'm expected to learn Hiragana, some basic grammar, intro 
 to kanji and radicals as well as ample motivational speeches XD! So here I go with the getting-started log.
 
-### C&#35;1 Why do I want to learn Japanese?
+### &#35;1 Why do I want to learn Japanese?
 
 - I want to (eventually) find a development job in Japan and move in there (Laravel developer hopefully)
 - I would like to read manga as well as watch anime and japanese series (Blood Lad ending plz..)
 
-### C&#35;2 My excuses to quit/reduce effort
+### &#35;2 My excuses to quit/reduce effort
 
 - I have to work
 - I have to learn coding as well
 - I need time for socialising
 - I need to watch tv
 
-### C&#35;3 Learning log
+### &#35;3 Learning log
 
 That's this one. I've found a template so it should be live by tomorrow (22 April 2017) I guess.
 
@@ -63,21 +63,21 @@ I'm planning to loosely follow TextFugu recommendation (I'm not very good at wri
 + What you need to work on.
 + What you want to learn next.
 
-### C&#35;4 My schedule/goals
+### &#35;4 My schedule/goals
 
 - Daily Memrise (45 Mins each)
 
-... + Hiragana : Introduction to Japanese (Teaches hiragana as well as some Japan trivia)
-... + Katakana - Basic Katakana 1 (Might move on to another course once I'm comfortable. 
-... ...I find katakana to be more confusing than Hiragana since there are a few that look very similar for me whilst Hiragana were more 
-... ...distinct-looking. Nonetheless, I'll try to get used to it.
-... + Japanese 1 - Vocabs, Hiragana and Katakana
+   Hiragana : Introduction to Japanese (Teaches hiragana as well as some Japan trivia)  
+   Katakana : Basic Katakana 1 (Might move on to another course once I'm comfortable.  
+      I find katakana to be more confusing than Hiragana since there are a few that look very similar for me  
+	  whilst Hiragana were more distinct-looking. Nonetheless, I'll try to get used to it.  
+   Japanese 1 : Vocabs, Hiragana and Katakana
 
 - Daily TextFugu (around 1 Hour)
 
-...I doubt that anything longer will be realistic. Forcing myself too much might be a bad idea I suppose. Might as well balance out with
-...other activities. The most important thing is I'm doing to spend time for Japanese daily from now on. With luck, this log will be 
-...updated daily or at least weekly. By next year (21 April 2017) I intend to be ready to take JLPT 3. Godspeed for me..
+   I doubt that anything longer will be realistic. Forcing myself too much might be a bad idea I suppose. Might as well balance out with
+   other activities. The most important thing is I'm doing to spend time for Japanese daily from now on. With luck, this log will be 
+   updated daily or at least weekly. By next year (21 April 2017) I intend to be ready to take JLPT 3. Godspeed for me..
 
 ---
 
