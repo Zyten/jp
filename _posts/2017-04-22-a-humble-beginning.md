@@ -22,9 +22,9 @@ I've always strictly watched subbed Anime and thus I felt like I can understand 
 for the grammar. 
 
 Therefore, I forced myself to take a Japanese level 1 course despite the fact that I had a tight schedule,
-what with my FYP and all. Luckily, this time. I had a hardworking friend with me. I could not give 100 percent as well but
-I did spend more time for Japanese than I did back in my first year for Chinese. Unfortunately, due to my FYP schedule, I could not
-attend the last few classes and therefore, unable to take the speaking test. I figured that I would do well since my quiz and test 
+what with my FYP and all. Luckily, this time around, I had a hardworking friend with me. I worked harder for Japanese than I did back 
+in my first year for Chinese. Unfortunately, due to my FYP schedule, I could not attend the last few classes and therefore, 
+unable to take the speaking test. I figured that I would do well since my quiz and test 
 marks were definitely not too bad. However, my lecturer ended up giving both of us a C grade. 
 
 This did not dampen my sprits though. I felt the urge to prove to myself that I can do it if I really try. 
