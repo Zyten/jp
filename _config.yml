@@ -1,6 +1,6 @@
 # General Jekyll Config
 highlighter: pygments
 url: http://sruban.me
-baseurl: zyten-learns-japanese/
+baseurl: /zyten-learns-japanese
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
