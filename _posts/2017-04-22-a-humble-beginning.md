@@ -78,8 +78,6 @@ I'm planning to loosely follow TextFugu recommendation for the logs:
 
     + Hiragana : Introduction to Japanese (Hiragana and some Japan trivia)  
     + Katakana : Basic Katakana 1  
-        I find katakana to be more confusing than Hiragana since there are a few that look very similar for me  
-	    whilst Hiragana were more distinct-looking. Nonetheless, I'll try to get used to it.  
     + Japanese 1 : Vocabs, Hiragana and Katakana
 
 - Daily TextFugu (around 1 Hour)
