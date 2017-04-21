@@ -10,21 +10,26 @@ But I never really wanted to learn the language then since I was focused on lear
 (there seemed to be no point in learning Japanese since I can't really speak with anyone whilst 
 there are ample of Chinese speakers amongst my friends). However, I failed miserably.
 I know a few Chinese words, enough to make people think that I can understand Chinese but in reality 
-I can't even string a few sentences to start a proper conversation. I took a basic Mandarin class when 
-I began my undergrad in 2013 but I was not discplined enough to give my 100 percent and thus I ended up 
-with an A+ by memorising some characters off the book before the finals but totally forgot everything by 
+I can't even string a few sentences to start a proper conversation. 
+
+I took a basic Mandarin class when I began my undergrad in 2013 but I was not discplined enough to give my 100 percent 
+and thus I ended up with an A+ by memorising some characters off the book before the finals but totally forgot everything by 
 the next semester. I suppose the biggest obstacle I had was a lack of motivation. I found Chinese pronounciation
 very hard and I kept using that as an excuse, thinking I'd never be able to speak properly anyways..
 
 And lo 2 years passed by and I was in my final semester already. By that time, I was already deeply immersed in Anime and Manga. 
 I've always strictly watched subbed Anime and thus I felt like I can understand a decent amount of words and the basic gist 
-for the grammar. Therefore, I forced myself to take a Japanese level 1 course despite the fact that I had a tight schedule,
+for the grammar. 
+
+Therefore, I forced myself to take a Japanese level 1 course despite the fact that I had a tight schedule,
 what with my FYP and all. Luckily, this time. I had a hardworking friend with me. I could not give 100 percent as well but
 I did spend more time for Japanese than I did back in my first year for Chinese. Unfortunately, due to my FYP schedule, I could not
 attend the last few classes and therefore, unable to take the speaking test. I figured that I would do well since my quiz and test 
-marks were definitely not too bad. However, my lecturer ended up giving both of us a C grade. For some reason though, 
-this sparked my motivation to actually see things thorough. But I was doing my internship when I got the results so there wasn't much
-time to spend on it. But that's definitely not the case now. I've finished my internship and am on a short break now.
+marks were definitely not too bad. However, my lecturer ended up giving both of us a C grade. 
+
+This did not dampen my sprits though. I felt the urge to prove to myself that I can do it if I really try. 
+But I was doing my internship when I got the results so there wasn't much time to spend on Japanese. 
+But that's definitely not the case now. I've finished my internship and am on a short break now.
 
 ---
 
@@ -72,7 +77,7 @@ I'm planning to loosely follow TextFugu recommendation for the logs:
 - Daily Memrise (45 Mins each)
 
     + Hiragana : Introduction to Japanese (Hiragana and some Japan trivia)  
-    + Katakana : Basic Katakana 1 (Might move on once I'm more comfortable)
+    + Katakana : Basic Katakana 1 (Might move on once I'm more comfortable)  
        I find katakana to be more confusing than Hiragana since there are a few that look very similar for me  
 	   whilst Hiragana were more distinct-looking. Nonetheless, I'll try to get used to it.  
     + Japanese 1 : Vocabs, Hiragana and Katakana
