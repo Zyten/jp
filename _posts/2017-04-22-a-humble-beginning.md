@@ -67,17 +67,19 @@ I'm planning to loosely follow TextFugu recommendation (I'm not very good at wri
 
 - Daily Memrise (45 Mins each)
 
-   Hiragana : Introduction to Japanese (Teaches hiragana as well as some Japan trivia)  
-   Katakana : Basic Katakana 1 (Might move on to another course once I'm comfortable.  
-      I find katakana to be more confusing than Hiragana since there are a few that look very similar for me  
-	  whilst Hiragana were more distinct-looking. Nonetheless, I'll try to get used to it.  
-   Japanese 1 : Vocabs, Hiragana and Katakana
+   +Hiragana : Introduction to Japanese (Teaches hiragana and some Japan trivia)  
+   +Katakana : Basic Katakana 1 (Might move on once I'm more comfortable.)
+       I find katakana to be more confusing than Hiragana since there are a few that look very similar for me  
+	   whilst Hiragana were more distinct-looking. Nonetheless, I'll try to get used to it.  
+   +Japanese 1 : Vocabs, Hiragana and Katakana
 
 - Daily TextFugu (around 1 Hour)
 
    I doubt that anything longer will be realistic. Forcing myself too much might be a bad idea I suppose. Might as well balance out with
    other activities. The most important thing is I'm doing to spend time for Japanese daily from now on. With luck, this log will be 
-   updated daily or at least weekly. By next year (21 April 2017) I intend to be ready to take JLPT 3. Godspeed for me..
+   updated daily or at least weekly.
+   
+   By next year (21 April 2017) I intend to be ready to take JLPT 3. Godspeed for me..
 
 ---
 
