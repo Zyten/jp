@@ -1,13 +1,17 @@
 p, li {
     font-family: Helvetica Neue;
-    font-size:20px; }
+    font-size: 20px;
+    line-height: 1.5em;
+}
 li {
-    line-height: 1em;}
+    line-height: 1em;
+}
 
 td {
     font-family: Helvetica Neue;
-    font-size:16px; 
-    padding: .05em}
+    font-size: 16px;
+    padding: .05em;
+}
 
 th, td {
     border-top: 1px solid #ddd;
@@ -15,7 +19,7 @@ th, td {
     padding: .25em;
 }
 
-tr td:first-child{
-    width:1%;
-    white-space:nowrap;
+tr td:first-child {
+    width: 1%;
+    white-space: nowrap;
 }
