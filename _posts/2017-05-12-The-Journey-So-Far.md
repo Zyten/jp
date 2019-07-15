@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Journey So Far
+categories:
+- general
 ---
 
 色々あるだから私はこのブログで書きませなかったです。それで今日は私がんばってくれます。
