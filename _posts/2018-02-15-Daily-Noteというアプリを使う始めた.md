@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Daily Note というアプリを使う始めた
+hero: daily-note/1518780969461.png
 categories:
 - daily-note
 ---

@@ -23,3 +23,18 @@ tr td:first-child {
     width: 1%;
     white-space: nowrap;
 }
+
+#hero a {
+  display: block;
+  height: 200px;
+  line-height: 200px;
+  overflow: hidden;
+}
+
+#hero img {
+  position: relative;
+  margin: -10% auto;
+  min-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
