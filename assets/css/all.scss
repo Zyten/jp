@@ -6,3 +6,7 @@
 {% include css/layout.css %}
 {% include css/syntax.css %}
 {% include css/custom.css %}
+
+.h2 {
+  @extend h2;
+}

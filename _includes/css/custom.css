@@ -38,3 +38,29 @@ tr td:first-child {
   height: auto;
   vertical-align: middle;
 }
+
+#search-box {
+  display: inline-block;
+  width: 82%;
+}
+
+.form-search {
+  margin-bottom: 0;
+}
+
+.button-search {
+  line-height: 2em;
+  padding-bottom: 0;
+}
+
+.fa-search {
+  padding-bottom: .7em !important;
+}
+
+#search-results {
+  margin-top: 0;
+}
+
+#search-results > :first-child > a > h3 {
+  margin-top: 0;
+}
