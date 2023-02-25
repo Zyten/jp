@@ -1,11 +1,11 @@
 # Zyten Learns Japanese
-###### Project Page: [zyten.github.io/zyten-learns-japanese](http://sruban.me/zyten-learns-japanese)
+###### Project Page: [zyten.github.io/jp](http://sruban.me/jp)
 
 ## Intro
 
 This blog hosts my learning logs as I progress through my journey to learn the Japanese language. <br /> <br />
 Note: This project used to host a vocab trace of my studies. The vocab trace has been discontinued and archived at
-http://sruban.me/zyten-learns-japanese/v1).
+http://sruban.me/jp/v1).
 
 
 ## License
